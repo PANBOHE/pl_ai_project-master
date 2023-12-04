@@ -1,0 +1,7 @@
+2023-02-06 19:41:58,008--logsfile.py--line:47]--ERROR:here is error information!
+[2023-02-06 19:42:38,765--logsfile.py--line:47]--ERROR:here is more error information!
+[2023-02-06 19:43:17,975--logsfile.py--line:48]--ERROR:here is more error information!{panbo}
+[2023-02-06 19:43:41,131--logsfile.py--line:48]--ERROR:here is more error information!{strname}
+[2023-02-06 19:43:49,473--logsfile.py--line:48]--ERROR:here is more error information!panbo
+[2023-02-06 19:48:33,978--logsfile.py--line:48]--ERROR:here is more error information!panbo
+[2023-02-06 19:49:03,897--logsfile.py--line:48]--ERROR:here is more error information!panbo try path
